@@ -1,0 +1,13 @@
+# Local Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+.nltk_data/
+# Download locally; source licenses do not clearly grant redistribution.
+Lab 2/data/*.csv
+Lab 3/data/*.csv
+Lab 5/data/*.csv
