@@ -7,7 +7,7 @@ Compare DistilGPT-2 generation, FLAN-T5 translation and summarization, and Disti
 Open this folder in VS Code with the Python and Jupyter extensions. Use a Python 3.12 kernel. Install the dependencies in that environment, then open `Lab7_Completed.ipynb` and choose **Run All**.
 
 ```shell
-python -m pip install "transformers==4.57.3" torch sentencepiece protobuf ipykernel
+python -m pip install "transformers==4.57.3" torch sentencepiece protobuf ipykernel ipywidgets
 ```
 
 The first run downloads the three public model checkpoints. The optional challenge intentionally samples without resetting the random seed.
