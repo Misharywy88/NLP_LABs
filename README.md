@@ -9,6 +9,8 @@ Course lab notebooks, datasets, and brief explanations.
 | [Lab 3](Lab%203/) | N-Gram Language Models | Completed |
 | [Lab 4](Lab%204/) | Classification and Evaluation | Completed |
 | [Lab 5](Lab%205/) | Text Representation | Completed |
+| [Lab 12](Lab%2012/) | Transformers | Completed |
+| [Lab 13](Lab%2013/) | Information Retrieval for RAG | Completed |
 
 ## Run locally
 
